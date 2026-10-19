@@ -1,11 +1,5 @@
-# SQLマスターへの道 Learner Edition
+# QUERY QUEST 完全カリキュラム版
 
-学習者向けに全面再設計したSPAです。
+24チャプターすべてに説明、元データ、例題、練習4問、確認テスト2問を実装。
 
-- 入門5画面からUNIT1へ直接接続
-- 各UNITは教育→例題1→練習4→テスト2
-- 問題文は設定文ではなく、実際の学習画面向け文言
-- 初級は選択・結果予測中心
-- 中級は部分入力
-- 上級で完全記述
-- 進捗とXPをlocalStorageへ保存
+GitHub Pages公開: ZIP展開後の index.html / style.css / course.js / app.js / README.md をリポジトリ直下へアップロードし、Pagesを main / (root) に設定。
