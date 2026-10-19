@@ -1,5 +1,5 @@
-# QUERY QUEST 完全カリキュラム版
+# QUERY QUEST GitHub Pages版
 
-24チャプターすべてに説明、元データ、例題、練習4問、確認テスト2問を実装。
+各チャプターの先頭にSQL説明と例題を設置した新規Web版です。
 
-GitHub Pages公開: ZIP展開後の index.html / style.css / course.js / app.js / README.md をリポジトリ直下へアップロードし、Pagesを main / (root) に設定。
+公開: ZIPを展開し index.html / style.css / chapters.js / app.js をGitHubリポジトリ直下へアップロードし、Pagesを main / (root) に設定します。
